@@ -25,3 +25,58 @@ This is a restful API using Springboot and PostgreSQL database with JSON web tok
   "token":"
 }
 ```
+
+### User Log in
+
+> POST api/user/login
+
+### Data
+
+```
+{
+}
+```
+#### Response
+
+```
+{
+}
+```
+
+### Create category
+
+> POST api/category
+
+```
+{
+}
+```
+#### Response
+
+```
+{
+}
+```
+
+#### Response
+
+```
+{
+}
+```
+
+### Get all categories
+
+> GET api/category
+
+```
+{
+}
+```
+#### Response
+
+```
+{
+}
+```
+
