@@ -79,4 +79,7 @@ This is a restful API using Springboot and PostgreSQL database with JSON web tok
 {
 }
 ```
-
+## Dependencies
+1. Java 17
+2. Docker
+3. Progresql - Check [here](https://www.youtube.com/watch?v=RdPYA-wDhTA) on how to set up Progresql with Docker.
